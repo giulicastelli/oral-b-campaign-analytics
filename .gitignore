@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Confidential business-case data (not redistributable)
+datasets/OralB/
+datasets/knime_output/
+*.pbix
